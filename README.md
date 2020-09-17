@@ -1,0 +1,1 @@
+Repo for the freecodeacademy project "Technical Documentation".
